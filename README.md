@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I can solve a Rubik's Cube in under three minutes.
 
 
-<img src="https://i.ibb.co/ZmLPjSF/bg.jpg">
+<img style="width:100%" src="https://i.ibb.co/ZmLPjSF/bg.jpg">
 
 <div style="display:flex; padding-top:40px;">
 <div>
