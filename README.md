@@ -5,9 +5,13 @@
 <br/>
 <div align="center">
  🔭 I’m currently working on **My Portfolio**
+    
  🌱 I’m currently learning **TypeScript, NextJs**
+ 
  📫 How to reach me: ilrsabbir@gmail.com
+ 
 💬 Ask me about **Javascript, React, TailwindCss... or anything [here](https://github.com/codesofsabbir/codesofsabbir/issues)**
+
 ⚡ Fun fact **I can solve a Rubik's Cube in under three minutes**
  </div>
 <br/>
