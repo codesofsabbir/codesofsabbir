@@ -5,13 +5,16 @@
 <h3 align="center">A passionate frontend developer from Bangladesh. 🇧🇩</h3>
 
 <div align="center">
+    
 <div>
  🔭 I’m currently working on **My Portfolio**  <br/>
  🌱 I’m currently learning **TypeScript, NextJs** <br/>
  📫 How to reach me: ilrsabbir@gmail.com <br/>
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)** <br/>
 ⚡ Fun fact **I can solve a Rubik's Cube in under three minutes**
+    
 </div>
+
 <br />
 <div>
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
