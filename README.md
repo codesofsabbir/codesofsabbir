@@ -44,9 +44,9 @@
 
 
 
-<div style="display:flex;">
+  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-  <div style=" padding-right: 20px; ">
+  <div align="left" style=" padding-right: 20px; ">
 
   <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
@@ -76,9 +76,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
   </div>
   </div>
-
-  <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+  
 
 <br/><br/>
 
