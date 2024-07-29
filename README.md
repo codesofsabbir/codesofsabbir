@@ -43,7 +43,11 @@
 <br/>
 
 
-<div clear="both" align="left" style="display:flex; padding-top:40px; justify-content: space-between;">
+
+
+<div style="display:flex; padding-top:40px; justify-content: space-between;">
+
+    
 <div>
   <div style="padding-bottom:20px; padding-right:20px; display:flex; flex-wrap:wrap; gap:10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -71,10 +75,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
   </div>
   
-</div>
-<img clear="both" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<div>
+    
+<img height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 </div>
 
+</div>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
