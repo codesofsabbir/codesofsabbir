@@ -44,7 +44,7 @@
 
 
 
-<div style="display:flex; flex-direction: col;">
+<div style="display:flex; flex-direction: row;">
 
   <div style="padding-right: 20px; ">
 
