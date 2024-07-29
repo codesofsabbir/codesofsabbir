@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">A passionate frontend developer from Bangladesh. 🇧🇩</h3>
 <br/>
-<div align="center">
+<div style="display:flex; justify-content:center;">
  🔭 I’m currently working on **My Portfolio** 
     
  🌱 I’m currently learning **TypeScript, NextJs** <br/>
