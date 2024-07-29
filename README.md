@@ -1,13 +1,10 @@
-<!-- this is Name title -->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sabbir+Ahmed!;" />
 </h1>
 
-<!-- this is about me in one sentance -->
 <h3 align="center">A passionate frontend developer from Bangladesh. 🇧🇩</h3>
-<br/>
 
-<div style="text-align:center;">
+<div align="center">
 <div>
  🔭 I’m currently working on **My Portfolio**  <br/>
  🌱 I’m currently learning **TypeScript, NextJs** <br/>
