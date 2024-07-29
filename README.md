@@ -7,9 +7,9 @@
 <div align="center">
     
 <div>
+    
  🔭 I’m currently working on **My Portfolio**  <br/>
 
-    
  🌱 I’m currently learning **TypeScript, NextJs** <br/>
  
  📫 How to reach me: ilrsabbir@gmail.com <br/>
