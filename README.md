@@ -1,3 +1,5 @@
+<img style="width:100%;" src="https://i.ibb.co/ZmLPjSF/bg.jpg">
+<br/><br/>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sabbir+Ahmed!;" />
 </h1>
@@ -37,8 +39,7 @@
 </div>
 
 <br/><br/>
-<img style="width:100%;" src="https://i.ibb.co/ZmLPjSF/bg.jpg">
-<br/><br/>
+
 
 
 
