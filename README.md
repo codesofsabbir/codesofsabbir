@@ -15,7 +15,7 @@
 <br/>
 <img style="width:100%" src="https://i.ibb.co/ZmLPjSF/bg.jpg">
 <br/>
-<div align="left" style="display:flex; padding-top:40px; justify-content: space-between;">
+<div clear="both" align="left" style="display:flex; padding-top:40px; justify-content: space-between;">
 <div>
   <div style="padding-bottom:20px; padding-right:20px; display:flex; flex-wrap:wrap; gap:10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
 </div>
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img clear="both" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 
