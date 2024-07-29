@@ -1,27 +1,35 @@
+<!-- this is Name title -->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sabbir+Ahmed!;" />
 </h1>
+
+<!-- this is about me in one sentance -->
 <h3 align="center">A passionate frontend developer from Bangladesh. 🇧🇩</h3>
 <br/>
-<div style="display:flex; justify-content:center;">
- 🔭 I’m currently working on **My Portfolio** 
-    
+
+<div style="text-align:center;">
+<div>
+ 🔭 I’m currently working on **My Portfolio**  <br/>
  🌱 I’m currently learning **TypeScript, NextJs** <br/>
  📫 How to reach me: ilrsabbir@gmail.com <br/>
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)** <br/>
 ⚡ Fun fact **I can solve a Rubik's Cube in under three minutes**
- </div>
- <br />
- <div aligh="center">
-     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+</div>
+<br />
+<div>
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
- </div>
+</div>
+</div>
+
 <br/>
 <img style="width:100%" src="https://i.ibb.co/ZmLPjSF/bg.jpg">
 <br/>
+
+
 <div clear="both" align="left" style="display:flex; padding-top:40px; justify-content: space-between;">
 <div>
   <div style="padding-bottom:20px; padding-right:20px; display:flex; flex-wrap:wrap; gap:10px;">
