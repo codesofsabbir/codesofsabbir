@@ -4,12 +4,14 @@
 <h3 align="center">A passionate frontend developer from Bangladesh. 🇧🇩</h3>
 <br/>
 <div align="center">
- 🔭 I’m currently working on **My Portfolio**<br/>
- 🌱 I’m currently learning **TypeScript, NextJs**<br/>
- 📫 How to reach me: ilrsabbir@gmail.com<br/>
-💬 Ask me about **Javascript, React, TailwindCss... or anything [here](https://github.com/codesofsabbir/codesofsabbir/issues)**
-
+ 🔭 I’m currently working on **My Portfolio** 
     
+ 🌱 I’m currently learning **TypeScript, NextJs** 
+ 
+ 📫 How to reach me: ilrsabbir@gmail.com 
+ 
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+
 ⚡ Fun fact **I can solve a Rubik's Cube in under three minutes**
  </div>
 <br/>
