@@ -1,14 +1,24 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sabbir+Ahmed!;" />
 </h1>
-<h3 align="left">A passionate frontend developer from Bangladesh.</h3>
+<h3 align="center">A passionate frontend developer from Bangladesh. 🇧🇩</h3>
 
-- 🔭 I’m currently working on My Portfolio.
-- 🌱 I’m currently learning TypeScript.
-- 📫 How to reach me: ilrsabbir@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I can solve a Rubik's Cube in under three minutes.
+<br/>
 
+<div align="center">
+ 
+ 🔭 I’m currently working on **My Portfolio**
+ 
+ 🌱 I’m currently learning **TypeScript, NextJs**
+
+ 📫 How to reach me: ilrsabbir@gmail.com
+
+💬 Ask me about **Javascript, React, TailwindCss... or anything [here](https://github.com/codesofsabbir/codesofsabbir/issues)**
+
+⚡ Fun fact **I can solve a Rubik's Cube in under three minutes**
+
+ </div>
+ 
 
 <img style="width:100%" src="https://i.ibb.co/ZmLPjSF/bg.jpg">
 
