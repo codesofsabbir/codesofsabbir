@@ -44,9 +44,9 @@
 
 
 
-<div style="display:flex;">
+<div style="display:flex; flex-direction: col;">
 
-  <div style=" padding-right: 20px; ">
+  <div style="padding-right: 20px; ">
 
   <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
