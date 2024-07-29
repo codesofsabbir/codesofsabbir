@@ -6,7 +6,6 @@
 
 <div align="center">
     
-<div>
     
  🔭 I’m currently working on **My Portfolio**  <br/>
 
@@ -23,7 +22,7 @@
 <br />
 
 
-<div>
+<div style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center;">
     
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   
@@ -37,19 +36,21 @@
   
 </div>
 
-
-<br/>
-<img style="width:100%" src="https://i.ibb.co/ZmLPjSF/bg.jpg">
-<br/>
-
+<br/><br/>
+<img style="width:100%;" src="https://i.ibb.co/ZmLPjSF/bg.jpg">
+<br/><br/>
 
 
 
-<div style="display:flex; padding-top:40px; justify-content: space-between;">
 
-    
-<div>
-  <div style="padding-bottom:20px; padding-right:20px; display:flex; flex-wrap:wrap; gap:10px;">
+
+<div style="display:flex;">
+
+  <div style=" padding-right: 20px; ">
+
+  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
+  <div style="display:flex; flex-wrap:wrap; gap:10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -74,14 +75,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
   </div>
-  
-<div>
-    
-<img height="150" src="https://i.imgflip.com/65efzo.gif"  />
+  </div>
 
+  <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
-</div>
+<br/><br/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -90,6 +89,9 @@
   
   <br/><br/><br/>
 </div>
+
+
+<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -101,16 +103,14 @@
 <img style="height:180px" src="https://github-readme-streak-stats.herokuapp.com/?user=codesofsabbir&theme=radical&hide_border=false">
 </div>
 
+<br/><br/>
 
+<hr/>
 
-  
+<br/>
 
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
 
-
-
-### 🔝 Top Contributed Repo
-<img style="width:50%;" src="https://github-contributor-stats.vercel.app/api?username=codesofsabbir&limit=5&theme=radical&combine_all_yearly_contributions=true">
-
----
-[![](https://visitcount.itsvg.in/api?id=codesofsabbir&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<br/>
