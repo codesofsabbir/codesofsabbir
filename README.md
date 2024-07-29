@@ -48,7 +48,8 @@
 
   <div align="left" style=" padding-right: 20px; width:80%">
 
-  <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+  <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+  <hr/>
 
   <div style="display:flex; flex-wrap:wrap; gap:10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
