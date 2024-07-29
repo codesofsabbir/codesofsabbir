@@ -2,24 +2,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sabbir+Ahmed!;" />
 </h1>
 <h3 align="center">A passionate frontend developer from Bangladesh. 🇧🇩</h3>
-
 <br/>
-
 <div align="center">
- 
  🔭 I’m currently working on **My Portfolio**
- 
  🌱 I’m currently learning **TypeScript, NextJs**
-
  📫 How to reach me: ilrsabbir@gmail.com
-
 💬 Ask me about **Javascript, React, TailwindCss... or anything [here](https://github.com/codesofsabbir/codesofsabbir/issues)**
-
 ⚡ Fun fact **I can solve a Rubik's Cube in under three minutes**
-
  </div>
- 
-
+<br/>
 <img style="width:100%" src="https://i.ibb.co/ZmLPjSF/bg.jpg">
 
 <div style="display:flex; padding-top:40px;">
