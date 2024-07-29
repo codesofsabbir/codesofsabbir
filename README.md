@@ -6,7 +6,7 @@
 <div align="center">
  🔭 I’m currently working on **My Portfolio** 
     
- 🌱 I’m currently learning **TypeScript, NextJs** 
+ 🌱 I’m currently learning **TypeScript, NextJs** <br/>
  📫 How to reach me: ilrsabbir@gmail.com 
  
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
