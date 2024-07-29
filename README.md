@@ -15,7 +15,7 @@
 <br/>
 <img style="width:100%" src="https://i.ibb.co/ZmLPjSF/bg.jpg">
 <br/>
-<div style="display:flex; padding-top:40px;">
+<div style="display:flex; padding-top:40px; justify-content: space-between;">
 <div>
   <div style="padding-bottom:20px; padding-right:20px; display:flex; flex-wrap:wrap; gap:10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
