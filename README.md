@@ -1,5 +1,5 @@
 
-<div style="width:100%; display:flex; justify-content:center;">
+<div align="center">
     <img src="https://i.ibb.co/ZmLPjSF/bg.jpg">
 </div>
 
